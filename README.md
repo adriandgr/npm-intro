@@ -1,8 +1,6 @@
 ## Exercise
 In this exercise we are going to install a package called `chalk` and use it in a simple Node script.
 
-First, create a new working directory using `mkdir` in your Vagrant machine. Remember to do this within the `/vagrant` directory which is sync'd with your computer. Also remember to `cd` into that new directory after you make it (often a step that is forgotten).
-
 Once in your working directory, execute the following command:
 ```
 npm init
